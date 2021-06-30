@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+c:\users\администратор.win-6l2ps80jsi9\desktop\demosll\demo\demo\demo.cpp(38): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Demo.vcxproj -> C:\Users\Администратор.WIN-6L2PS80JSI9\Desktop\Demosll\Demo\Debug\Demo.exe
